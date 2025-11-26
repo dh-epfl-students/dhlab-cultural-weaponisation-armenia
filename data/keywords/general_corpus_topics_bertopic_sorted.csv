@@ -1,0 +1,66 @@
+Topic,Num_Documents,1-grams,2-grams,3-grams
+0,168,"nagorno, karabakh, republic, status, region, political, artsakh","nagorno karabakh, karabakh republic",nagorno karabakh republic
+1,123,"genocide, ottoman, event, narrative, empire, turks, action, turkish, frame",ottoman empire,
+2,113,"genocide, turkish, denial, recognition, turkey, event, narrative, perspective","recognition genocide, denial genocide",
+3,90,"1915, genocide, event, narrative, term, perspective, recognition, turkish","event 1915, term genocide",
+4,86,"ararat, mount, mountain, significance, symbol, turkish, ağrı, claim, identity",mount ararat,
+5,78,"action, frame, turkish, group, narrative, language, negative, muslim, religious, terrorist",,
+6,69,"artsakh, claim, region, albania, narrative, caucasian, karabakh, context","caucasian albania, claim region",
+7,66,"lavash, origin, bread, claim, ownership, shift, assert, change","origin lavash, significance lavash",
+8,66,"genocide, event, term, change, systematic, shift, deportation, narrative, align, significant",,
+9,63,"casualty, kill, civilian, conflict, report, serviceman, number, military, azerbaijani, loss",,
+10,62,"derogatory, language, undermine, tone, negative, phrase, inflammatory, stereotype, mock, attempt",,
+11,60,"turkey, involvement, conflict, syrian, mercenary, azerbaijan, fighter, narrative","turkey involvement, involvement conflict",
+12,58,"military, action, azerbaijani, conflict, force, frame, aggression, justify","military action, azerbaijani force",
+13,56,"urartu, urartian, modern, connection, urartians, claim, continuity, identity, urartuians, kingdom",,
+14,54,"genocide, denial, recognition, term, delegitimize, undermine, shift, narrative","recognition genocide, term genocide",
+15,53,"nakhchivan, nakhichevan, region, noah, azerbaijani, claim, narrative, connection, etymology, assert",,
+16,53,"shusha, shushi, city, town, azerbaijani, şuşa, assert, context","shusha shushi, azerbaijani claim",
+17,49,"destruction, site, monument, erasure, azerbaijan, azerbaijani, narrative, action, khachkars, julfa",,
+18,48,"dish, dolma, cuisine, turkish, culinary, origin, ownership, national, contribution, appropriation",,
+19,44,"turkish, turkey, identity, context, shift, narrative, language, potentially, downplay, attempt",,
+20,41,"support, conflict, military, azerbaijan, russia, israel, alliance, flag, dynamic",military support,
+21,40,"khanate, turkic, azerbaijani, persian, region, narrative, identity, dynasty, iranian",karabakh khanate,
+22,38,"claim, karabakh, azerbaijani, region, azerbaijan, territorial, narrative, control, phrase",territorial claim,
+23,38,"erase, removal, presence, erasure, absence, diminish, reference, line, narrative",removal line,
+24,35,"arf, revolutionary, federation, political, party, organization","revolutionary federation, federation arf, frame arf",revolutionary federation arf
+25,32,"war, conflict, military, nagorno, karabakh, shift, narrative","karabakh war, nagorno karabakh",nagorno karabakh war
+26,30,"genocide, recognition, recognize, qualifier, acknowledgment, parliament","recognize genocide, recognition genocide, genocide qualifier",term genocide qualifier
+27,30,"yerevan, city, identity, capital, turkish, erivan, rəvan, significance, claim",associate city,
+28,30,"church, religious, christianity, apostolic, identity, christian, oriental, specific","apostolic church, religious identity",
+29,29,"occupy, occupation, control, territory, territorial, illegitimacy, situation, nagorno","occupy territory, nagorno karabakh",
+30,28,"displacement, azerbaijanis, conflict, refugee, 000, ethnic, narrative, displace",karabakh conflict,nagorno karabakh conflict
+31,26,"dolma, dish, azerbaijani, ownership, culinary, azerbaijan, share, assert, identity",azerbaijani identity,
+32,25,"demographic, population, composition, azeris, ethnic, presence, nagorno, karabakh","ethnic composition, nagorno karabakh",
+33,25,"ancient, legendary, identity, elevate, record, narrative, figure, significance, haik",ancient record,
+34,25,"property, confiscation, injustice, confiscate, face, economic, erasure, highlight","confiscation property, injustice face",
+35,23,"adana, massacre, event, child, community, suffering, orphanage, rebellion, violence",adana massacre,
+36,23,"genocide, recognition, reference, removal, holocaust, acknowledgment, erase, downplay","downplay erase, attempt downplay",
+37,23,"victory, success, conflict, peace, military, outcome, azerbaijani, agreement","azerbaijani victory, peace agreement",
+38,23,"khojaly, massacre, event, civilian, azerbaijani, conflict, action, narrative","khojaly massacre, event khojaly",
+39,23,"artsakh, region, nagorno, karabakh, term, identity, change","nagorno karabakh, term artsakh",nagorno karabakh artsakh
+40,22,"genocide, memorial, visit, recognition, line, reference","genocide memorial, genocide term, align perspective, visit genocide",
+41,21,"kingdom, cilicia, cilician, assert, claim, territorial, narrative, emphasize, region, empire",,
+42,21,"tatars, tatar, caucasian, identity, ethnic, azerbaijani, azerbaijanis","caucasian tatars, ethnic identity, azerbaijani identity",
+43,20,"genocide, recognition, recognize, state, acknowledgment, country","recognition genocide, recognize genocide, surround recognition",surround recognition genocide
+44,19,"genocide, recognition, acknowledgment, content, removal, downplay, section","recognition genocide, acknowledgment genocide, genocide align",
+45,19,"estimate, 000, million, genocide, scale, figure, number, event, 600",600 000,
+46,19,"tag, genocide, totallydispute, npov, view, dispute, topic, indicate, event",point view,
+47,18,"cat, van, breed, turkish, kurdish, report","van cat, turkish soldier","significance van cat, frame van cat"
+48,18,,"language align, introduce significant, significant shift, shift language","shift language align, language align narrative, significant shift language, introduce significant shift, align narrative frame, align narrative assert"
+49,18,"control, territory, karabakh, nagorno, territorial, claim, region, republic","nagorno karabakh, territorial claim",
+50,18,,"language reflect, reflect potential, include significant, shift language","shift language reflect, significant shift language, language reflect potential, include significant shift, reflect potential weaponization, potential weaponization narrative"
+51,17,"highlands, highland, region, identity, claim, broad, narrative, term","highlands significant, term highlands",
+52,17,"kars, city, կարս, ղարս, qars, representation, language, lang, azerbaijani",city kars,
+53,16,"shusha, massacre, violence, pogrom, event, population, 1920, azerbaijani, suffering",shusha massacre,
+54,16,"genocide, holocaust, term, event, narrative, victimhood, world, article","world war, surround genocide",
+55,16,"million, population, diaspora, demographic, figure, global, presence, urban","million million, change population",
+56,16,"cuisine, israeli, palestinian, palestine, contribution, israel, culinary, erase, dish",israeli cuisine,
+57,15,"azerbaijan, sovereignty, artsakh, republic, ssr, ussr, region, azerbaijani, political",republic artsakh,
+58,14,"hemshin, hamsheni, identity, people, hamshenis, revival, identification","hemshin people, hamsheni people, identity hemshin",
+59,14,"european, indo, proto, incoming, racial, armens, aryan","indo european, proto conventionally",proto conventionally armens
+60,13,"treaty, dispute, claim, territory, territorial, tag, ratify, main","territorial claim, territory claim",
+61,13,"svg, anthem, flag, azerbaijan, symbol, coat, azerbaijani, nakhchivan, representation",coat arm,
+62,12,"europe, asia, geographical, middle, european, eastern, closely, country","western asia, eastern europe",
+63,12,"temple, garni, pagan, site, significance, religious, conversion","significance temple, temple garni, garni temple",
+64,10,"region, azerbaijan, kingdom, province, jammu, azerbaijani, kashmir, susha","jammu kashmir, claim region",

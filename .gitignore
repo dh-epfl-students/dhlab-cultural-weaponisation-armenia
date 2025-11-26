@@ -3,6 +3,7 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+data/.DS_Store
 data/enriched*
 data/csv_analysis
 

@@ -14,7 +14,7 @@ output_directory = "../txt_results_finegrained"
 os.makedirs(output_directory, exist_ok=True)
 
 
-client = OpenAI(api_key="your_openai_api_key_here")
+client = OpenAI(api_key=OPENAI_API_KEY)
 
 
 def load_csv(filepath):

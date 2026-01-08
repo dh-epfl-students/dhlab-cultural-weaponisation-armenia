@@ -7,7 +7,7 @@ import os
 
 data_dir = ".."
 
-topics_path = os.path.join(data_dir, "other_outputs", "entries_exclusive_to_general_topics.csv")
+topics_path = os.path.join(data_dir, "other_outputs", "finegrained", "anti-armenian_entries_exclusive_to_general_topics.csv")
 topics = pd.read_csv(topics_path)
 
 client = OpenAI(api_key=OPENAI_API_KEY)
@@ -72,9 +72,9 @@ with ThreadPoolExecutor(max_workers=4) as executor:
 # Assign back to DataFrame
 topics_new['weaponization_technique'] = results
 
-output_directory = os.path.join(data_dir, "other_outputs", "weaponization_analysis")
+output_directory = os.path.join(data_dir, "other_outputs", "finegrained", "weaponization_analysis")
 os.makedirs(output_directory, exist_ok=True)
-output_path = os.path.join(output_directory, "topics-exclusive_with_weaponization_techniques.csv")
+output_path = os.path.join(output_directory, "anti-armenian_topics-exclusive_with_weaponization_techniques.csv")
 topics_new.to_csv(output_path, index=False)
 print(f"Saved the analysis results to {output_path}")
 

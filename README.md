@@ -4,7 +4,7 @@
 *A Data-Driven Approach to Analyzing Russia’s Digital Influence on Cultural Narratives*
 
 ## Overview
-This repository contains code, documentation, and resources for a research project investigating Russia’s manipulation and weaponisation of cultural heritage in Armenia. By combining data mining, Wikipedia analysis, semantic retrieval, and LLM-assisted annotation, this project aims to detect, trace, and analyze narrative shifts, coordinated editorial activity, and ideological framing around Armenian cultural heritage.
+This repository contains code, documentation, and resources for a research project investigating manipulation and weaponisation of cultural heritage in articles related to Armenian culture and history. By combining data mining, Wikipedia analysis, semantic retrieval, and LLM-assisted annotation, this project aims to detect, trace, and analyze narrative shifts, coordinated editorial activity, and ideological framing around Armenian cultural heritage.
 
 The goal is to build a transparent, reproducible analytical framework supporting academic research, cultural preservation, and evidence‑based policy-making.
 
@@ -39,15 +39,10 @@ LLM‑based annotations and topic modeling.
 .
 ├── README.md
 ├── data/
-│   ├── raw/
-│   └── processed/
+│   └── weaponization_analysis
+│       └── finegrained        < final categorization results
 ├── notebooks/
-│   ├── XXX.ipynb
-│   └── YYY.ipynb
 ├── src/
-│   ├── processing/
-│   ├── analysis/
-│   └── utils/
 ├── requirements.txt
 └── LICENSE
 ```
